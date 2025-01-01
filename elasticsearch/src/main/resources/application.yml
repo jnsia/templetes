@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: elasticsearch
+  elasticsearch:
+    username: localuser
+    password: password
+    host: localhost:9200
